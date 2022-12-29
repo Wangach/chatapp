@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Modern Chat app with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Wangach/chatapp.git"
+  },
+  "author": "John Kimani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wangach/chatapp/issues"
+  },
+  "homepage": "https://github.com/Wangach/chatapp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.3.0"
+  }
+}
